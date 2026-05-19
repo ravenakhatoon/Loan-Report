@@ -78,6 +78,8 @@ Overview Page
 
 Details Page
 
+![Details Dashboard](loan report details.png)
+
 [alt text]( https://github.com/ravenakhatoon/Loan-Report/blob/main/loan%20report%20details.png)
 
 # Business Objective
