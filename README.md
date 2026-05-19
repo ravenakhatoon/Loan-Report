@@ -66,19 +66,21 @@ Fully paid loans contribute the highest received amount.
 Bad loans account for a smaller percentage but involve high financial risk.
 Loan trends help identify customer borrowing patterns.
 Interest rate and DTI analysis help evaluate loan quality.
+
 # Dashboard Screenshots
 
 Summary Page
 
-[alt text ](https://github.com/ravenakhatoon/Loan-Report/blob/main/loan%20report%20summary.png)
+<img width="1327" height="750" alt="Screenshot 2026-05-19 172257" src="https://github.com/user-attachments/assets/a417372d-59b4-40a9-8fd9-4d7f5f5761e4" />
 
 Overview Page
 
-[alt text ](https://github.com/ravenakhatoon/Loan-Report/blob/main/Loan%20report%20overview.png)
+<img width="1331" height="741" alt="Screenshot 2026-05-19 172325" src="https://github.com/user-attachments/assets/b45ec654-cec5-4585-aa6d-aa0ed51579dc" />
 
 Details Page
 
-![Details Dashboard](loan report details.png)
+<img width="1318" height="743" alt="Screenshot 2026-05-19 172346" src="https://github.com/user-attachments/assets/895a0056-2ebd-4c01-ac4f-5a8bbc6a9cc8" />
+
 
 [alt text]( https://github.com/ravenakhatoon/Loan-Report/blob/main/loan%20report%20details.png)
 
