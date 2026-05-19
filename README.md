@@ -55,6 +55,6 @@ Summary Page
 Overview Page
 [alt text https://github.com/ravenakhatoon/Loan-Report/blob/main/Loan%20report%20overview.png]
 Details Page
-
+[alt text https://github.com/ravenakhatoon/Loan-Report/blob/main/loan%20report%20details.png]
 # Business Objective
 The objective of this project is to help banks and financial institutions track loan performance, identify risky loans, and make data-driven financial decisions using interactive visual analytics.
