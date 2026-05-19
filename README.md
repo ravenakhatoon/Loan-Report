@@ -4,7 +4,7 @@
 This Power BI project analyzes bank loan data to provide insights into loan applications, funded amounts, repayment performance, interest rates, and loan quality.
 The dashboard helps financial institutions monitor loan performance and identify good and bad loans for better decision-making.
 # Dashboard Pages
-1️⃣# Summary Dashboard
+1️⃣ **Summary Dashboard**
 
 Total Loan Applications
 
@@ -20,7 +20,7 @@ Loan Status Report
 
 MTD & MOM Analysis
 
-2️⃣# Overview Dashboard
+2️⃣ **Overview Dashboard**
 
 Monthly Loan Trends
 
@@ -32,7 +32,7 @@ Home Ownership Analysis
 
 State-wise Loan Distribution
 
-3️⃣# Details Dashboard
+3️⃣ **Details Dashboard**
 
 Detailed Loan-Level Records
 
