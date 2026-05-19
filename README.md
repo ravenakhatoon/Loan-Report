@@ -53,8 +53,7 @@ Interest rate and DTI analysis help evaluate loan quality.
 Summary Page
 [alt text https://github.com/ravenakhatoon/Loan-Report/blob/main/loan%20report%20summary.png]
 Overview Page
-
-
+[alt text https://github.com/ravenakhatoon/Loan-Report/blob/main/Loan%20report%20overview.png]
 Details Page
 
 # Business Objective
