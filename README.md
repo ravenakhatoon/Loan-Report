@@ -51,8 +51,9 @@ Loan trends help identify customer borrowing patterns.
 Interest rate and DTI analysis help evaluate loan quality.
 # Dashboard Screenshots
 Summary Page
-
+[alt text https://github.com/ravenakhatoon/Loan-Report/blob/main/loan%20report%20summary.png]
 Overview Page
+
 
 Details Page
 
